@@ -15,8 +15,12 @@
   </ItemGroup>
 
   <Target Name="FixProto" BeforeTargets="Protobuf_BeforeCompile">
-    <Exec Command="dotnet run --file ..\protofix.cs" />
-
+    <Exec Command="dotnet run --file protofix.cs $(MSBuildProjectDirectory)" WorkingDirectory="$(MSBuildProjectDirectory)\.." StandardErrorImportance="high" IgnoreStandardErrorWarningFormat="true" StandardOutputImportance="low" ConsoleToMSBuild="true" ContinueOnError="true">
+      <Output TaskParameter="ConsoleOutput" PropertyName="RunOutput" />
+      <Output TaskParameter="ExitCode" PropertyName="ExitCode" />
+    </Exec>
+    <Message Importance="high" Text="$(RunOutput)" Condition="'$(ExitCode)' != '0'" />
+    <Error Text="$(RunOutput)" Condition="'$(ExitCode)' != '0'" />
   </Target>
 
 </Project>
