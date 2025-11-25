@@ -3,6 +3,7 @@
 #:property Nullable=enable
 #:property ImportDirectoryBuildProps=false
 #:property ImportDirectoryBuildTargets=false
+#:property PublishAot=false
 
 using System.IO;
 using System.Linq;
