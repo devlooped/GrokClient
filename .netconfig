@@ -1,0 +1,182 @@
+[file]
+	url = https://github.com/devlooped/oss
+[file ".netconfig"]
+	url = https://github.com/devlooped/oss/blob/main/.netconfig
+	skip
+[file "readme.md"]
+	url = https://github.com/devlooped/oss/blob/main/readme.md
+	skip
+[file ".github/workflows/combine-prs.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/workflows/combine-prs.yml
+	skip
+[file "src/kzu.snk"]
+	url = https://github.com/devlooped/oss/blob/main/src/kzu.snk
+	skip
+[file ".github/workflows/dotnet-file-core.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/workflows/dotnet-file-core.yml
+	skip
+[file ".github/actions/dotnet/action.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/actions/dotnet/action.yml
+	skip
+[file ".editorconfig"]
+	url = https://github.com/devlooped/oss/blob/main/.editorconfig
+	sha = a62c45934ac2952f2f5d54d8aea4a7ebc1babaff
+	etag = b5e919b472a52d4b522f86494f0f2c0ba74a6d9601454e20e4cbaf744317ff62
+	weak
+[file ".gitattributes"]
+	url = https://github.com/devlooped/oss/blob/main/.gitattributes
+	sha = 4a9aa321c4982b83c185cf8dffed181ff84667d5
+	etag = 09cad18280ed04b67f7f87591e5481510df04d44c3403231b8af885664d8fd58
+	weak
+[file ".github/dependabot.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/dependabot.yml
+	sha = e733294084fb3e75d517a2e961e87df8faae7dc6
+	etag = 3bf8d9214a15c049ca5cfe80d212a8cbe4753b8a638a9804ef73d34c7def9618
+	weak
+[file ".github/release.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/release.yml
+	sha = 0c23e24704625cf75b2cb1fdc566cef7e20af313
+	etag = 310df162242c95ed19ed12e3c96a65f77e558b46dced676ad5255eb12caafe75
+	weak
+[file ".github/workflows/build.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/workflows/build.yml
+	sha = 56c2b8532c2f86235a0f5bd00ba6eba126f199cf
+	etag = bf99c19427f4372ecfe38ec56aa8c411058684fb717da5661f17ac00388b3602
+	weak
+[file ".github/workflows/changelog.config"]
+	url = https://github.com/devlooped/oss/blob/main/.github/workflows/changelog.config
+	sha = 08d83cb510732f861416760d37702f9f55bd7f9e
+	etag = 556a28914eeeae78ca924b1105726cdaa211af365671831887aec81f5f4301b4
+	weak
+[file ".github/workflows/changelog.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/workflows/changelog.yml
+	sha = 5fb172362c767bef7c36478f1a6bdc264723f8f9
+	etag = ad1efa56d6024ee1add2bcda81a7e4e38d0e9069473c6ff70374d5ce06af1f5a
+	weak
+[file ".github/workflows/dotnet-env.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/workflows/dotnet-env.yml
+	sha = 77e83f238196d2723640abef0c7b6f43994f9747
+	etag = fcb9759a96966df40dcd24906fd328ddec05953b7e747a6bb8d0d1e4c3865274
+	weak
+[file ".github/workflows/dotnet-file.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/workflows/dotnet-file.yml
+	sha = 8fa147d4799d73819040736c399d0b1db2c2d86c
+	etag = 1ca805a23656e99c03f9d478dba8ccef6e571f5de2ac0e9bb7e3c5216c99a694
+	weak
+[file ".github/workflows/includes.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/workflows/includes.yml
+	sha = 2d1fb4ed52b63689f2b20b994512ebac28721243
+	etag = 34ade86f020dea717c6a27ad7dcd0069c35be2832c58b0ba961278a1efe34089
+	weak
+[file ".github/workflows/publish.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/workflows/publish.yml
+	sha = 56c2b8532c2f86235a0f5bd00ba6eba126f199cf
+	etag = 2ef43521627aa3a91dd55bdc2856ec0c6a93b42485d4fe9d6b181f9ee42c8e18
+	weak
+[file ".github/workflows/triage.yml"]
+	url = https://github.com/devlooped/oss/blob/main/.github/workflows/triage.yml
+	sha = 33000c0c4ab4eb4e0e142fa54515b811a189d55c
+	etag = 013a47739e348f06891f37c45164478cca149854e6cd5c5158e6f073f852b61a
+	weak
+[file ".gitignore"]
+	url = https://github.com/devlooped/oss/blob/main/.gitignore
+	sha = 3776526342afb3f57da7e80f2095e5fdca3c31c9
+	etag = 11767f73556aa4c6c8bcc153b77ee8e8114f99fa3b885b0a7d66d082f91e77b3
+	weak
+[file "Directory.Build.rsp"]
+	url = https://github.com/devlooped/oss/blob/main/Directory.Build.rsp
+	sha = 0f7f7f7e8a29de9b535676f75fe7c67e629a5e8c
+	etag = 0ccae83fc51f400bfd7058170bfec7aba11455e24a46a0d7e6a358da6486e255
+	weak
+[file "_config.yml"]
+	url = https://github.com/devlooped/oss/blob/main/_config.yml
+	sha = 68b409c486842062e0de0e5b11e6fdb7cd12d6e2
+	etag = d608aa0ddaedc2d8a87260f50756e8d8314964ad4671b76bd085bcb458757010
+	weak
+[file "assets/css/style.scss"]
+	url = https://github.com/devlooped/oss/blob/main/assets/css/style.scss
+	sha = 9db26e2710b084d219d6355339d822f159bf5780
+	etag = f710d8919abfd5a8d00050b74ba7d0bb05c6d02e40842a3012eb96555c208504
+	weak
+[file "license.txt"]
+	url = https://github.com/devlooped/oss/blob/main/license.txt
+	sha = 0683ee777d7d878d4bf013d7deea352685135a05
+	etag = 2c6335b37e4ae05eea7c01f5d0c9d82b49c488f868a8b5ba7bff7c6ff01f3994
+	weak
+[file "src/Directory.Build.props"]
+	url = https://github.com/devlooped/oss/blob/main/src/Directory.Build.props
+	sha = 0ff8b7b79a82112678326d1dc5543ed890311366
+	etag = 3ebde0a8630d526b80f15801179116e17a857ff880a4442e7db7b075efa4fd63
+	weak
+[file "src/Directory.Build.targets"]
+	url = https://github.com/devlooped/oss/blob/main/src/Directory.Build.targets
+	sha = 4339749ef4b8f66def75931df09ef99c149f8421
+	etag = 8b4492765755c030c4c351e058a92f53ab493cab440c1c0ef431f6635c4dae0e
+	weak
+[file "src/nuget.config"]
+	url = https://github.com/devlooped/oss/blob/main/src/nuget.config
+	sha = 032439dbf180fca0539a5bd3a019f18ab3484b76
+	etag = da7c0104131bd474b52fc9bc9f9bda6470e24ae38d4fb9f5c4f719bc01370ab5
+	weak
+[file "src/GrokClient/."]
+	url = https://github.com/xai-org/xai-proto/tree/main/proto/xai/api/v1/
+[file "src/GrokClient/auth.proto"]
+	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/auth.proto
+	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
+	etag = ea074da4f67b67ebf0e8a0b2114a1720d6b3176a8324aa1cfd22740e78049d80
+	weak
+[file "src/GrokClient/chat.proto"]
+	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/chat.proto
+	sha = ffa02e54327b9d5f89c9dc6f7872417f2bd6fd27
+	etag = ba767d0fb8de524f521b567433d70128a0335449c499ea30f1e72d61581887a7
+	weak
+[file "src/GrokClient/deferred.proto"]
+	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/deferred.proto
+	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
+	etag = d47b84dddfc4252abbced302fde18ea8093933a3a8d5516350db596d3ae86595
+	weak
+[file "src/GrokClient/documents.proto"]
+	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/documents.proto
+	sha = 736b835b0c0dd93698664732daad49f87a2fbc6f
+	etag = 3719cf7bc6280bc244ec25290be31fc925c95d0833f5fe282d9d0be805827ec6
+	weak
+[file "src/GrokClient/embed.proto"]
+	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/embed.proto
+	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
+	etag = e39d176e278c4b31be375fe8bd7a21a17fceb61422b38fb0ba0341bdb58e6b36
+	weak
+[file "src/GrokClient/image.proto"]
+	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/image.proto
+	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
+	etag = 72140789ccabd84bb51e0120c4b86f78ffa03de324410887034c8c45684004c6
+	weak
+[file "src/GrokClient/models.proto"]
+	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/models.proto
+	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
+	etag = af6557257e396c857f85997e118358a689a5627303d0d4c89124aae0691813c5
+	weak
+[file "src/GrokClient/sample.proto"]
+	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/sample.proto
+	sha = 6c67dda8aed9c1c82cb75d4548c14785c43c654c
+	etag = 0749bb07dcf0078c5cf5832b7c78abec3a332197d83781eacc57999af8846a65
+	weak
+[file "src/GrokClient/tokenize.proto"]
+	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/tokenize.proto
+	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
+	etag = 000b345ae3d238d6be847eb8336b22f89d43a8bc1876d0bebfb81c1930260f2e
+	weak
+[file "src/GrokClient/usage.proto"]
+	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/usage.proto
+	sha = afc88be2698cf4fb5ad476734d02b931241c0624
+	etag = e760ecb2f328565e57bbd0ad1fec6a62004088c8b217c0cb178653cd2c1bf432
+	weak
+[file "src/GrokClient/google/protobuf/timestamp.proto"]
+	url = https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/timestamp.proto
+	sha = 71f247a9cf5ddcd310d8aa5e05cea2acc72f9a7f
+	etag = ca7512680f5ac0d26b57c5cfebca26d906112e3cb02a9739bad342ad70a45ed5
+	weak
+[file "src/GrokClient/google/protobuf/empty.proto"]
+	url = https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/empty.proto
+	sha = 407aa2d9319f5db12964540810b446fecc22d419
+	etag = 0dca55f20a72d3279554837f4eba867a1de37fe0f4a7535c2d9bc43867361cc5
+	weak
