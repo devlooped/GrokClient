@@ -27,6 +27,13 @@ static int FixProto(bool dryRun, [Argument] string? dir = default)
         for (var i = 0; i < lines.Count; i++)
         {
             var line = lines[i];
+            if (line == "package xai_api;")
+            {
+                lines[i] = "package Devlooped.Grok;";
+                changed = true;
+                continue; 
+            }
+
             if (regex.Match(line) is { Success: true } match)
             {
                 var path = match.Groups[1].Value;

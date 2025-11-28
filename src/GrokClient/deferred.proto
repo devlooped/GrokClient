@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package xai_api;
+package Devlooped.Grok;
 
 // The response from the service, when creating a deferred completion request.
 message StartDeferredResponse {

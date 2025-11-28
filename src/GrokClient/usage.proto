@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package xai_api;
+package Devlooped.Grok;
 
 // Records the cost associated with a sampling request (both chat and sample
 // endpoints).

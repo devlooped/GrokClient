@@ -2,12 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Devlooped.Grok</RootNamespace>
+    <AssemblyName>Devlooped.Grok</AssemblyName>
+    <PackageId>GrokClient</PackageId>
+    <Description>Grok gRPC client based on the official protocol buffers from xAI.</Description>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Google.Protobuf" Version="3.33.1" />
     <PackageReference Include="Grpc.Net.Client" Version="2.71.0" />
+    <PackageReference Include="Grpc.Net.ClientFactory" Version="2.71.0" />
     <PackageReference Include="Grpc.Tools" Version="2.76.0" PrivateAssets="all" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.0" />
   </ItemGroup>
 
   <ItemGroup>

@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-package xai_api;
+package Devlooped.Grok;
 
 // An API service for interaction with image generation models.
 service Image {
