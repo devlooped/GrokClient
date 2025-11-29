@@ -1,10 +1,10 @@
 ![Icon](assets/icon.png) Grok Client (gRPC)
 ============
 
+[![Version](https://img.shields.io/nuget/vpre/GrokClient.svg?color=royalblue)](https://www.nuget.org/packages/GrokClient)
+[![Downloads](https://img.shields.io/nuget/dt/GrokClient.svg?color=darkmagenta)](https://www.nuget.org/packages/GrokClient)
 [![EULA](https://img.shields.io/badge/EULA-OSMF-blue?labelColor=black&color=C9FF30)](osmfeula.txt)
 [![OSS](https://img.shields.io/github/license/devlooped/oss.svg?color=blue)](license.txt) 
-[![Version](https://img.shields.io/nuget/vpre/GrokClient.svg?color=royalblue)](https://www.nuget.org/packages/GrokClient)
-[![Downloads](https://img.shields.io/nuget/dt/GrokClient.svg?color=green)](https://www.nuget.org/packages/GrokClient)
 
 Grok client based on the official gRPC API reference from xAI
 
