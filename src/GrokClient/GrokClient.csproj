@@ -8,6 +8,9 @@
     <Description>Grok client based on the official gRPC API reference from xAI.</Description>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <PackageTags>ai grok llm xai</PackageTags>
+    <PackageLicenseExpression></PackageLicenseExpression>
+    <PackageLicenseFile>OSMFEULA.txt</PackageLicenseFile>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
@@ -24,6 +27,7 @@
 
   <ItemGroup>
     <Protobuf Include="*.proto" GrpcServices="Client" />
+    <None Include="..\..\osmfeula.txt" Link="osmfeula.txt" PackagePath="OSMFEULA.txt" />
   </ItemGroup>
 
   <Target Name="FixProto" BeforeTargets="Protobuf_BeforeCompile">
