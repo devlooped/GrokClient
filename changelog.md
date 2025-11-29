@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.0.0-rc](https://github.com/devlooped/GrokClient/tree/v1.0.0-rc) (2025-11-29)
+
+[Full Changelog](https://github.com/devlooped/GrokClient/compare/v1.0.0-beta...v1.0.0-rc)
+
 ## [v1.0.0-beta](https://github.com/devlooped/GrokClient/tree/v1.0.0-beta) (2025-11-29)
 
 [Full Changelog](https://github.com/devlooped/GrokClient/compare/v1.0.0-alpha...v1.0.0-beta)
