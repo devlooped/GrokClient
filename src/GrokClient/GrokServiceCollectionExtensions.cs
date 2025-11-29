@@ -1,13 +1,16 @@
-﻿using System;
-using System.Net.Http;
-using System.Threading.Tasks;
+﻿using System.ComponentModel;
+using Devlooped.Grok;
 using Grpc.Net.ClientFactory;
-using Microsoft.Extensions.DependencyInjection;
 
-namespace Devlooped.Grok;
+namespace Microsoft.Extensions.DependencyInjection;
 
+/// <summary>Registration extensions for Grok gRPC clients.</summary>
+[EditorBrowsable(EditorBrowsableState.Never)]
 public static class GrokServiceCollectionExtensions
 {
+    /// <summary>
+    /// Registers Grok gRPC clients with the specified API key.
+    /// </summary>
     public static IServiceCollection AddGrokClient(this IServiceCollection services, string apiKey,
         Action<GrpcClientFactoryOptions>? configureClient = null,
         Action<IHttpClientBuilder>? configureHttp = null)
