@@ -45,8 +45,8 @@ class MyService(Chat.ChatClient chat, Documents.DocumentsClient docs, Embedder.E
 ## Auto-updating
 
 This project contains an automated mechanism to always fetch the latest version 
-of the official .proto files from XAI, ensuring it remains up-to-date with any changes 
-or additions made to the API as soon as they are published.
+of the [official .proto files from XAI](https://github.com/xai-org/xai-proto/tree/main/proto/xai/api/v1), 
+ensuring it remains up-to-date with any changes or additions made to the API as soon as they are published.
 
 See for example the [introduction of tool output and citations](https://github.com/devlooped/GrokClient/pull/3).
 
