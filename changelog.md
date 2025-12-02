@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.1](https://github.com/devlooped/GrokClient/tree/v1.0.1) (2025-12-02)
+
+[Full Changelog](https://github.com/devlooped/GrokClient/compare/v1.0.0...v1.0.1)
+
+:sparkles: Implemented enhancements:
+
+- ⬆️ Add end\_index for InlineCitation [\#9](https://github.com/devlooped/GrokClient/pull/9) (@kzu)
+
 ## [v1.0.0](https://github.com/devlooped/GrokClient/tree/v1.0.0) (2025-11-29)
 
 [Full Changelog](https://github.com/devlooped/GrokClient/compare/v1.0.0-rc...v1.0.0)
