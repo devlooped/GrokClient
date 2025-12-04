@@ -1,5 +1,13 @@
 # Changelog
 
+## [v1.0.3](https://github.com/devlooped/GrokClient/tree/v1.0.3) (2025-12-04)
+
+[Full Changelog](https://github.com/devlooped/GrokClient/compare/v1.0.2...v1.0.3)
+
+:sparkles: Implemented enhancements:
+
+- ⬆️ Rename server-side document search tools to attachment search [\#11](https://github.com/devlooped/GrokClient/pull/11) (@kzu)
+
 ## [v1.0.2](https://github.com/devlooped/GrokClient/tree/v1.0.2) (2025-12-03)
 
 [Full Changelog](https://github.com/devlooped/GrokClient/compare/v1.0.1...v1.0.2)
