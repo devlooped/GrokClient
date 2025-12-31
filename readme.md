@@ -203,7 +203,7 @@ Learn more about [Remote MCP tools](https://docs.x.ai/docs/guides/tools/remote-m
 <!-- #protocol -->
 ## Usage
 
-The xAI.Protocol package provides a .NET client for the gRPC API of xAI with full support for all services 
+The xAI.Protocol package provides a .NET client for the gRPC API from xAI with full support for all services 
 documented in the [official API reference](https://docs.x.ai/docs/grpc-reference) and 
 corresponding [proto files](https://github.com/xai-org/xai-proto/tree/main/proto/xai/api/v1).
 
