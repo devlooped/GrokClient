@@ -118,64 +118,64 @@
 	sha = 032439dbf180fca0539a5bd3a019f18ab3484b76
 	etag = da7c0104131bd474b52fc9bc9f9bda6470e24ae38d4fb9f5c4f719bc01370ab5
 	weak
-[file "src/GrokClient/."]
+[file "src/xAI.Protocol/."]
 	url = https://github.com/xai-org/xai-proto/tree/main/proto/xai/api/v1/
-[file "src/GrokClient/auth.proto"]
+[file "src/xAI.Protocol/auth.proto"]
 	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/auth.proto
 	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
 	etag = ea074da4f67b67ebf0e8a0b2114a1720d6b3176a8324aa1cfd22740e78049d80
 	weak
-[file "src/GrokClient/chat.proto"]
+[file "src/xAI.Protocol/chat.proto"]
 	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/chat.proto
 	sha = f6d4d709515fd666ebeb7dfcb89bd50e58c859d9
 	etag = a3ef7183a220c08fd57b7a197090a6a8e6e89028e0477184bf73e61b4b7da6ff
 	weak
-[file "src/GrokClient/deferred.proto"]
+[file "src/xAI.Protocol/deferred.proto"]
 	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/deferred.proto
 	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
 	etag = d47b84dddfc4252abbced302fde18ea8093933a3a8d5516350db596d3ae86595
 	weak
-[file "src/GrokClient/documents.proto"]
+[file "src/xAI.Protocol/documents.proto"]
 	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/documents.proto
 	sha = f6d4d709515fd666ebeb7dfcb89bd50e58c859d9
 	etag = 4a8a0f386f19acd6818a04c0729c940a4943054938800e92a8b3973ceedc06f4
 	weak
-[file "src/GrokClient/embed.proto"]
+[file "src/xAI.Protocol/embed.proto"]
 	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/embed.proto
 	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
 	etag = e39d176e278c4b31be375fe8bd7a21a17fceb61422b38fb0ba0341bdb58e6b36
 	weak
-[file "src/GrokClient/image.proto"]
+[file "src/xAI.Protocol/image.proto"]
 	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/image.proto
 	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
 	etag = 72140789ccabd84bb51e0120c4b86f78ffa03de324410887034c8c45684004c6
 	weak
-[file "src/GrokClient/models.proto"]
+[file "src/xAI.Protocol/models.proto"]
 	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/models.proto
 	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
 	etag = af6557257e396c857f85997e118358a689a5627303d0d4c89124aae0691813c5
 	weak
-[file "src/GrokClient/sample.proto"]
+[file "src/xAI.Protocol/sample.proto"]
 	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/sample.proto
 	sha = 6c67dda8aed9c1c82cb75d4548c14785c43c654c
 	etag = 0749bb07dcf0078c5cf5832b7c78abec3a332197d83781eacc57999af8846a65
 	weak
-[file "src/GrokClient/tokenize.proto"]
+[file "src/xAI.Protocol/tokenize.proto"]
 	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/tokenize.proto
 	sha = 626a3a3f22d8aa11c7a185bf8902e7d415df0462
 	etag = 000b345ae3d238d6be847eb8336b22f89d43a8bc1876d0bebfb81c1930260f2e
 	weak
-[file "src/GrokClient/usage.proto"]
+[file "src/xAI.Protocol/usage.proto"]
 	url = https://github.com/xai-org/xai-proto/blob/main/proto/xai/api/v1/usage.proto
 	sha = 362749661fa2d340d234ad372fab920538897821
 	etag = bd66823dfde1a2fff714d3712104bef886baf22da9f94c7505acee37d3ff67fd
 	weak
-[file "src/GrokClient/google/protobuf/timestamp.proto"]
+[file "src/xAI.Protocol/google/protobuf/timestamp.proto"]
 	url = https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/timestamp.proto
 	sha = 71f247a9cf5ddcd310d8aa5e05cea2acc72f9a7f
 	etag = ca7512680f5ac0d26b57c5cfebca26d906112e3cb02a9739bad342ad70a45ed5
 	weak
-[file "src/GrokClient/google/protobuf/empty.proto"]
+[file "src/xAI.Protocol/google/protobuf/empty.proto"]
 	url = https://github.com/protocolbuffers/protobuf/blob/main/src/google/protobuf/empty.proto
 	sha = 407aa2d9319f5db12964540810b446fecc22d419
 	etag = 0dca55f20a72d3279554837f4eba867a1de37fe0f4a7535c2d9bc43867361cc5
